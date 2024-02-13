@@ -1,0 +1,10 @@
+[
+    {
+      "family": "Poppins-Regular",
+      "fonts": [
+        {
+          "asset": "web/assets/Poppins-Regular.ttf"
+        }
+      ]
+    }
+]
